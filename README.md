@@ -24,6 +24,11 @@ To design a static web site for a book cover page.
 
 Validate the HTML and CSS code.
 
+
+![2023-01-28 (1)](https://user-images.githubusercontent.com/118660461/215238950-8aecc6fb-e475-4369-b9ea-aaf23b559aef.png)
+
+
+
 ### Step 6:
 
 Publish the website in the given URL.
